@@ -1,2 +1,6 @@
-Adding some text
+Adding some tex
+
 conflicting lines adding
+
+newLines are added in qa branch
+
