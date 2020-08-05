@@ -1,1 +1,2 @@
 Adding some text
+newLines are added in qa branch
