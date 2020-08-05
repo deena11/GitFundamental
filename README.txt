@@ -1,3 +1,3 @@
 hello, git
-Bye git
+Bye gi
 newline added
